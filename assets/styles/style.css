@@ -1,3 +1,5 @@
-nav {
-    color: white;
+.login-box {
+    border-radius: 25px;
+    margin-top: 20px;
+    border: gray 1px solid;
 }
